@@ -31,8 +31,6 @@ My research examines the recent decline in Black support for Democratic presiden
 
 My research has appeared in publications like Urban Studies and PS: Political Science & Politics, and has received media coverage in The New York Times.
 
-​
-
 I earned a Ph.D. in Political Science from Emory University in 2026 and a B.A. in Economics from the University of Washington in 2019. Before that, I worked as a visual artist and bartender in Seattle, and taught drawing and painting at the Gage Academy of Art, Seattle Art Museum, and the Northwest African American Museum. 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
