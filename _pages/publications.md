@@ -16,5 +16,40 @@ nav_order: 2
 <div class="publications">
 
 {% bibliography %}
+@article{schuett2025beyond,
+  title={Beyond the Bloc: Black Voter Subgroups \& Declining Democratic Support},
+  author={Schuett, Arica},
+  year={2025}
+}
+
+
+@article{gade2024re,
+  title={Re-imaging data collection: the promise and pitfalls of using non-state actor media for large-scale event datasets},
+  author={Gade, Emily K and Minhas, Shahryar and Jensen, Bree Bang and Leung, Kai Ping and Gabbay, Michael and Hafez, Mohammed and Thomas, Emily and Salehian, Kayla and Sharifi, Ava and Farkouh, Tara and others},
+  year={2024}
+}
+
+@article{owens2024race,
+  title={Race and perceptions of revitalisation in the ‘District of Gentrification’},
+  author={Owens, Michael Leo and Schuett, Arica and Crawford, Nyron N and Benjamin, Andrea},
+  journal={Urban Studies},
+  volume={61},
+  number={8},
+  pages={1563--1580},
+  year={2024},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{jensen2023lab,
+  title={The lab as a classroom: advancing faculty research through undergraduate experiential education},
+  author={Jensen, Bree Bang and Bresee, Bernadette and Dreier, Sarah K and Farrokhi, Ramin and Gade, Emily K and Jeffers, Willa and Morris, Marcella H and Pabbaraju, Charitra S and Salehian, Kayla and Sharifi, Ava and others},
+  journal={PS: Political Science \& Politics},
+  volume={56},
+  number={4},
+  pages={455--462},
+  year={2023},
+  publisher={Cambridge University Press}
+}
+
 
 </div>
