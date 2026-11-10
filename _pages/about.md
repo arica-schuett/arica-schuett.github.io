@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://rooneyinstitute.nd.edu/'>The Rooney Institute</a>.
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 856EDFEC-0DA0-492A-AF4E-3E56166ABD32.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>2031 Jenkins and Nanovik Hall</p>
