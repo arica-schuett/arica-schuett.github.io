@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='https://rooneyinstitute.nd.edu/'>The Rooney Institute</a>.
 profile:
   align: right
   image: prof_pic.jpg
