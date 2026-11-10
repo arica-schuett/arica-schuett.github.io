@@ -12,4 +12,4 @@ collection: books
 
 ## Books (and other media) that I am reading, have read, or will read
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBHNGaOOtC5RXicDKfV6aEnv_k1o4SGVYJsHUe64-E8cu6NtcVfKy6Q7ifEqVtTfg7G8n86k8UbpTK/pubhtml" width="100%" height="600" style="border:0;"></iframe>
+<iframe src="<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBHNGaOOtC5RXicDKfV6aEnv_k1o4SGVYJsHUe64-E8cu6NtcVfKy6Q7ifEqVtTfg7G8n86k8UbpTK/pubhtml?widget=true&amp;headers=false"></iframe>" width="100%" height="600" style="border:0;"></iframe>
