@@ -6,7 +6,7 @@ nav: true
 collection: books
 ---
 
-Everything I read, watch, and listen to for fun: books, podcasts, movies, news, and the occasional reread. (Sorry, grad students, no academic article notes here.) I started the list in fall 2026 and backfilled years of earlier entries. Generous ratings are a feature: the forgettable stuff stayed unrated.
+>Everything I read, watch, and listen to for fun: books, podcasts, movies, news, and the occasional reread. (Sorry, grad students, no academic article notes here.) I started the list in fall 2026 and backfilled years of earlier entries. Generous ratings are a feature: the forgettable stuff stayed unrated.
 
 ## Books (and other media) that I am reading, have read, or will read
 
