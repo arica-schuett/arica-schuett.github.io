@@ -6,9 +6,7 @@ nav: true
 collection: books
 ---
 
-> This is a kitchen sink list of the media I take in in my free time. This list contains everything from books I've read or reread, podcasts, movies, news articles (sorry, grad students. no article notes here), etc. 
->
-> I started this list in fall 2026, but have back logged it with my digital records spanning several years. If my rankings seem generous, its probably because I didn't find the unranked items to be particularly memorable. 
+Everything I read, watch, and listen to for fun: books, podcasts, movies, news, and the occasional reread. (Sorry, grad students, no academic article notes here.) I started the list in fall 2026 and backfilled years of earlier entries. Generous ratings are a feature: the forgettable stuff stayed unrated.
 
 ## Books (and other media) that I am reading, have read, or will read
 
