@@ -10,7 +10,7 @@ calendar: true
 
 ## Teaching Philosophy
 
-My teaching centers on making political science accessible, relevant, and engaging. Many topics in American politics are contentious, and students arrive wanting to understand them and apply them to the world around them. I build courses around clear goals, creative assignments, and regular connections to current debates, and I use humor to make the classroom inviting and lower the barriers to participation.
+My teaching centers on making political science accessible, relevant, and engaging. Many topics in American politics are contentious, and students arrive wanting to understand them and apply them to the world around them. I build courses around clear goals, creative assignments, and regular connections to current debates. I use humor to make the classroom inviting and lower the barriers to participation.
 
 ## Courses
 
