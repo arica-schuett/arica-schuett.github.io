@@ -16,12 +16,14 @@ nav_order: 2
 <div class="publications">
 
 {% bibliography %}
-@article{schuett2025beyond,
+
+</div>
+@unpublished{schuett2025beyond,
   title={Beyond the Bloc: Black Voter Subgroups \& Declining Democratic Support},
   author={Schuett, Arica},
-  year={2025}
+  year={2025},
+  note={Working paper}
 }
-
 
 @article{gade2024re,
   title={Re-imaging data collection: the promise and pitfalls of using non-state actor media for large-scale event datasets},
@@ -30,7 +32,7 @@ nav_order: 2
 }
 
 @article{owens2024race,
-  title={Race and perceptions of revitalisation in the ‘District of Gentrification’},
+  title={Race and perceptions of revitalisation in the 'District of Gentrification'},
   author={Owens, Michael Leo and Schuett, Arica and Crawford, Nyron N and Benjamin, Andrea},
   journal={Urban Studies},
   volume={61},
@@ -50,6 +52,3 @@ nav_order: 2
   year={2023},
   publisher={Cambridge University Press}
 }
-
-
-</div>
