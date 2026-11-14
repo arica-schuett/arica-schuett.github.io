@@ -5,7 +5,6 @@ title: teaching
 description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
 ## Teaching Philosophy
@@ -16,8 +15,3 @@ My teaching centers on making political science accessible, relevant, and engagi
 
 - **Too Busy to Hate: Atlanta Politics and Political Life** (first-year seminar, co-taught with Kiela Crabtree). An introduction to urban politics and Atlanta's political and racial history, with in-class debates, student-led lectures, a field trip to Atlanta City Hall, and a full-length podcast as the final project.
 - **Research Design and Methods** (teaching assistant)
-
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
