@@ -7,9 +7,6 @@ profile:
   align: right
   image: 856EDFEC-0DA0-492A-AF4E-3E56166ABD32.jpeg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>2031 Jenkins and Nanovik Hall</p>
-    <p>Notre Dame, IN 46556</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
