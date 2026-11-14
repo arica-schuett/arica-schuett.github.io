@@ -15,7 +15,11 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<h2>published &amp; forthcoming</h2>
+{% bibliography --query @article %}
+
+<h2>working papers</h2>
+{% bibliography --query @unpublished %}
 
 </div>
 
