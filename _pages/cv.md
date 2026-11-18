@@ -1,12 +1,10 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/Schuett_CV_26 (1).pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: Curriculum vitae of Arica Schuett. Download the PDF above.
-toc:
-  sidebar: left
+description: Curriculum vitae of Arica Schuett.
 ---
+
+<a href="{{ '/assets/pdf/Schuett_CV_26%20(1).pdf' | relative_url }}" target="_blank">Download my CV (PDF)</a>
